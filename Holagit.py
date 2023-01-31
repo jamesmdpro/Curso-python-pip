@@ -1,0 +1,1 @@
+print("James usted puede no sea loca")
